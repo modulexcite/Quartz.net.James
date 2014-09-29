@@ -1,0 +1,5 @@
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Binary\Quartz.Net.Demo.dll
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Binary\Quartz.Net.Demo.pdb
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Demo.csprojResolveAssemblyReference.cache
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Demo.dll
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Demo\obj\Release\Quartz.Net.Demo.pdb

@@ -1,0 +1,7 @@
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\bin\Debug\Topshelf.WindowsService.exe.config
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\bin\Debug\Topshelf.WindowsService.exe
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\bin\Debug\Topshelf.WindowsService.pdb
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\bin\Debug\log4net.dll
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\bin\Debug\Topshelf.dll
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\obj\Debug\Topshelf.WindowsService.exe
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WindowsService\obj\Debug\Topshelf.WindowsService.pdb

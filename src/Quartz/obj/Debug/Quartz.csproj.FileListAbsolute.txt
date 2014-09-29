@@ -1,0 +1,6 @@
+D:\project\Quartz.net\build\4.0\Debug\Quartz\Quartz.dll
+D:\project\Quartz.net\build\4.0\Debug\Quartz\Quartz.pdb
+D:\project\Quartz.net\build\4.0\Debug\Quartz\Quartz.xml
+D:\project\Quartz.net\src\Quartz\obj\Debug\Quartz.csprojResolveAssemblyReference.cache
+D:\project\Quartz.net\src\Quartz\obj\Debug\Quartz.dll
+D:\project\Quartz.net\src\Quartz\obj\Debug\Quartz.pdb

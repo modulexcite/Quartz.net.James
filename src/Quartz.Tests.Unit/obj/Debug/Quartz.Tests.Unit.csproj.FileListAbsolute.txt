@@ -1,0 +1,16 @@
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\AnnualCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\BaseCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\CronCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\DailyCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\HashSet_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\HolidayCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\JobDataMap_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\MonthlyCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\TreeSet_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Serialized\WeeklyCalendar_10.ser
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Quartz.Tests.Unit.dll.config
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Quartz.Tests.Unit.dll
+D:\project\Quartz.net\build\4.0\Debug\Quartz.Tests.Unit\Quartz.Tests.Unit.pdb
+D:\project\Quartz.net\src\Quartz.Tests.Unit\obj\Debug\Quartz.Tests.Unit.csprojResolveAssemblyReference.cache
+D:\project\Quartz.net\src\Quartz.Tests.Unit\obj\Debug\Quartz.Tests.Unit.dll
+D:\project\Quartz.net\src\Quartz.Tests.Unit\obj\Debug\Quartz.Tests.Unit.pdb

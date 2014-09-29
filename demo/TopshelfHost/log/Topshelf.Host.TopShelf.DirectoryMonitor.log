@@ -1,0 +1,21 @@
+INFO  2014-08-25 09:20:08 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-25 09:20:08 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2014-08-25 09:20:08 - <TopShelf.DirectoryMonitor> Created
+INFO  2014-08-25 09:20:08 - <TopShelf.DirectoryMonitor> Starting
+INFO  2014-08-25 09:20:08 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2014-08-25 09:20:08 - <TopShelf.DirectoryMonitor> Running
+INFO  2014-08-25 09:20:26 - <SampleService> FolderChanged
+INFO  2014-08-26 09:51:14 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-26 09:51:15 - [TopShelf.DirectoryMonitor] Create complete
+INFO  2014-08-26 09:51:15 - <TopShelf.DirectoryMonitor> Created
+INFO  2014-08-26 09:51:15 - <TopShelf.DirectoryMonitor> Starting
+INFO  2014-08-26 09:51:15 - [TopShelf.DirectoryMonitor] Start complete
+INFO  2014-08-26 09:51:15 - <TopShelf.DirectoryMonitor> Running
+INFO  2014-08-26 09:51:36 - <SampleService> FolderChanged
+INFO  2014-08-26 11:34:45 - <TopShelf.DirectoryMonitor> Stopping
+INFO  2014-08-26 11:34:45 - [TopShelf.DirectoryMonitor] Stop complete
+INFO  2014-08-26 11:34:45 - <TopShelf.DirectoryMonitor> Stopped
+INFO  2014-08-26 11:34:45 - <TopShelf.DirectoryMonitor> Unloading
+INFO  2014-08-26 11:34:45 - [TopShelf.DirectoryMonitor] Unload complete
+INFO  2014-08-26 11:34:45 - <TopShelf.DirectoryMonitor> Unloaded
+INFO  2014-08-26 11:34:45 - [TopShelf.DirectoryMonitor] Unloading Shelf and AppDomain

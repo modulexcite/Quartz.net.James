@@ -1,0 +1,66 @@
+INFO  2014-08-25 09:19:48 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-25 09:19:49 - Installing Topshelf.Host service
+INFO  2014-08-25 09:20:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-25 09:20:07 - The Topshelf.Host service has been started.
+INFO  2014-08-25 09:20:08 - (TopShelf.DirectoryMonitor) ShelfCreated
+INFO  2014-08-25 09:20:08 - (TopShelf.DirectoryMonitor) Created
+INFO  2014-08-25 09:20:08 - (TopShelf.DirectoryMonitor) Running
+INFO  2014-08-25 09:20:26 - (SampleService) FolderChanged
+INFO  2014-08-25 09:20:26 - [Topshelf] Folder Changed: SampleService
+INFO  2014-08-25 09:20:26 - [Topshelf] Create Shelf Service: SampleService
+INFO  2014-08-25 09:20:26 - [SampleService] Created Host Channel: net.pipe://localhost/topshelf_6040/controller/SampleService(6040/SampleService)
+INFO  2014-08-25 09:20:27 - (SampleService) ShelfCreated
+INFO  2014-08-25 09:20:27 - (SampleService) Created
+INFO  2014-08-25 09:20:28 - (SampleService) Running
+INFO  2014-08-26 09:51:06 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-26 09:51:07 - Detected the operating system: 'win'
+INFO  2014-08-26 09:51:07 - Starting up as a winservice application
+INFO  2014-08-26 09:51:07 - [Topshelf] Starting
+INFO  2014-08-26 09:51:07 - [Topshelf] Before starting services complete
+INFO  2014-08-26 09:51:07 - [TopshelfDashboard] Create complete
+INFO  2014-08-26 09:51:07 - (TopshelfDashboard) Created
+INFO  2014-08-26 09:51:07 - [Topshelf.Host] Create complete
+INFO  2014-08-26 09:51:07 - (Topshelf.Host) Created
+INFO  2014-08-26 09:51:07 - (TopshelfDashboard) Starting
+INFO  2014-08-26 09:51:07 - (Topshelf.Host) Starting
+INFO  2014-08-26 09:51:07 - [Topshelf.Host] Start complete
+INFO  2014-08-26 09:51:07 - [Topshelf] Create Shelf Service: TopShelf.DirectoryMonitor (DirectoryMonitorBootstrapper)
+INFO  2014-08-26 09:51:07 - Loading dashboard at Uri: http://localhost:8483/Topshelf/Topshelf.Host
+INFO  2014-08-26 09:51:07 - (Topshelf.Host) Running
+INFO  2014-08-26 09:51:10 - [TopshelfDashboard] Start complete
+INFO  2014-08-26 09:51:10 - (TopshelfDashboard) Running
+INFO  2014-08-26 09:51:11 - [Topshelf] After starting services complete
+INFO  2014-08-26 09:51:12 - [TopShelf.DirectoryMonitor] Created Host Channel: net.pipe://localhost/topshelf_2868/controller/TopShelf.DirectoryMonitor(2868/TopShelf.DirectoryMonitor)
+INFO  2014-08-26 09:51:14 - (TopShelf.DirectoryMonitor) ShelfCreated
+INFO  2014-08-26 09:51:15 - (TopShelf.DirectoryMonitor) Created
+INFO  2014-08-26 09:51:15 - (TopShelf.DirectoryMonitor) Running
+INFO  2014-08-26 09:51:36 - (SampleService) FolderChanged
+INFO  2014-08-26 09:51:36 - [Topshelf] Folder Changed: SampleService
+INFO  2014-08-26 09:51:36 - [Topshelf] Create Shelf Service: SampleService
+INFO  2014-08-26 09:51:36 - [SampleService] Created Host Channel: net.pipe://localhost/topshelf_2868/controller/SampleService(2868/SampleService)
+INFO  2014-08-26 09:51:38 - (SampleService) ShelfCreated
+INFO  2014-08-26 09:51:39 - (SampleService) Created
+INFO  2014-08-26 09:51:39 - (SampleService) Running
+INFO  2014-08-26 11:34:45 - [Topshelf] Stopping
+INFO  2014-08-26 11:34:45 - (TopshelfDashboard) Stopping
+INFO  2014-08-26 11:34:45 - [TopshelfDashboard] Stop complete
+INFO  2014-08-26 11:34:45 - (Topshelf.Host) Stopping
+INFO  2014-08-26 11:34:45 - (TopshelfDashboard) Stopped
+INFO  2014-08-26 11:34:45 - [Topshelf.Host] Stop complete
+INFO  2014-08-26 11:34:45 - (Topshelf.Host) Stopped
+INFO  2014-08-26 11:34:45 - (TopshelfDashboard) Unloading
+INFO  2014-08-26 11:34:45 - (Topshelf.Host) Unloading
+INFO  2014-08-26 11:34:45 - [TopshelfDashboard] Unload complete
+INFO  2014-08-26 11:34:45 - (TopshelfDashboard) Unloaded
+INFO  2014-08-26 11:34:45 - [Topshelf.Host] Unload complete
+INFO  2014-08-26 11:34:45 - (Topshelf.Host) Unloaded
+INFO  2014-08-26 11:34:45 - (SampleService) Stopped
+INFO  2014-08-26 11:34:45 - (TopShelf.DirectoryMonitor) Stopped
+INFO  2014-08-26 11:34:45 - (SampleService) Unloading
+INFO  2014-08-26 11:34:45 - (TopShelf.DirectoryMonitor) Unloading
+INFO  2014-08-26 11:34:45 - (SampleService) Unloaded
+INFO  2014-08-26 11:34:45 - (TopShelf.DirectoryMonitor) Unloaded
+INFO  2014-08-26 11:34:45 - (SampleService) Unloaded
+INFO  2014-08-26 11:34:45 - (TopShelf.DirectoryMonitor) Unloaded
+INFO  2014-08-26 11:34:46 - [Topshelf] After stopping services complete
+INFO  2014-08-26 11:34:47 - [Topshelf] Stopped

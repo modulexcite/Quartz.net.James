@@ -1,0 +1,9 @@
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\bin\Topshelf.WCF.dll.config
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\bin\Topshelf.WCF.dll
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\bin\Topshelf.WCF.pdb
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\bin\log4net.dll
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\bin\Topshelf.dll
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\obj\Debug\Topshelf.WCF.Resource.resources
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\obj\Debug\Topshelf.WCF.csproj.GenerateResource.Cache
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\obj\Debug\Topshelf.WCF.dll
+D:\project\Quartz.net\demo\TopshelfService\Topshelf.WCF\obj\Debug\Topshelf.WCF.pdb

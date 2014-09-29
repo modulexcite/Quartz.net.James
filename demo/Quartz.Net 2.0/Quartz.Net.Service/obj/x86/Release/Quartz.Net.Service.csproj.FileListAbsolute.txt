@@ -1,0 +1,9 @@
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Binary\quartz.config
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Binary\Quartz.Net.Service.exe.config
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Binary\Quartz.Net.Service.exe
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Binary\Quartz.Net.Service.pdb
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.csprojResolveAssemblyReference.cache
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.ProjectInstaller.resources
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.csproj.GenerateResource.Cache
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.exe
+D:\project\Quartz.net\demo\Quartz.Net 2.0\Quartz.Net.Service\obj\x86\Release\Quartz.Net.Service.pdb

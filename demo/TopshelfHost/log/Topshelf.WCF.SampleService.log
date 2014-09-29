@@ -1,0 +1,28 @@
+INFO  2014-08-25 09:20:27 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-25 09:20:27 - Test cool service created
+INFO  2014-08-25 09:20:27 - Test cool service endpoint: http://localhost/sampleservice/CoolService.svc
+INFO  2014-08-25 09:20:27 - [SampleService] Create complete
+INFO  2014-08-25 09:20:27 - <SampleService> Created
+INFO  2014-08-25 09:20:27 - <SampleService> Starting
+INFO  2014-08-25 09:20:28 - Test cool service started
+INFO  2014-08-25 09:20:28 - [SampleService] Start complete
+INFO  2014-08-25 09:20:28 - <SampleService> Running
+INFO  2014-08-25 09:21:16 - Persons count is 2
+INFO  2014-08-25 09:21:22 - Persons count is 2
+INFO  2014-08-25 09:21:31 - Persons count is 2
+INFO  2014-08-26 09:51:38 - Topshelf v2.2.2.0, .NET Framework v4.0.30319.34014
+INFO  2014-08-26 09:51:39 - Test cool service created
+INFO  2014-08-26 09:51:39 - Test cool service endpoint: http://localhost/sampleservice/CoolService.svc
+INFO  2014-08-26 09:51:39 - [SampleService] Create complete
+INFO  2014-08-26 09:51:39 - <SampleService> Created
+INFO  2014-08-26 09:51:39 - <SampleService> Starting
+INFO  2014-08-26 09:51:39 - Test cool service started
+INFO  2014-08-26 09:51:39 - [SampleService] Start complete
+INFO  2014-08-26 09:51:39 - <SampleService> Running
+INFO  2014-08-26 11:34:45 - <SampleService> Stopping
+INFO  2014-08-26 11:34:45 - [SampleService] Stop complete
+INFO  2014-08-26 11:34:45 - <SampleService> Stopped
+INFO  2014-08-26 11:34:45 - <SampleService> Unloading
+INFO  2014-08-26 11:34:45 - [SampleService] Unload complete
+INFO  2014-08-26 11:34:45 - <SampleService> Unloaded
+INFO  2014-08-26 11:34:45 - [SampleService] Unloading Shelf and AppDomain
